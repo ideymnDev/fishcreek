@@ -1,2 +1,2 @@
 # Project FISHCREEK HTML
-akun github: 
+akun github: https://github.com/ideymnDev/fishcreek
